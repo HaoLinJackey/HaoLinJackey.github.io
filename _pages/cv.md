@@ -27,6 +27,11 @@ Skills
 
 Experience
 ======
+Jun. 2026 - Present: Teaching Assistant of **ECE 344 (Advanced Wireless Communication Systems)**
+  * King Abdullah University of Science and Technology (**KAUST**)
+  * Duties includes: Homeworks, Tutorials and Exams
+  * Supervisor: Prof. Mohamed-Slim Alouini
+
 Jan. 2026 - Jun. 2026: Teaching Assistant of **AMCS 241 (Stochastic Processes)**
   * King Abdullah University of Science and Technology (**KAUST**)
   * Duties includes: Homeworks, Tutorials and Exams
