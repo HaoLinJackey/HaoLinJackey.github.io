@@ -75,9 +75,10 @@ Nov. 27, 2023 - Nov. 29, 2023: **4th KAUST 6G Summit**, Thuwal, Saudi Arabia
  
 Honor and Awards
 ======
+* June 2026: **KAUST CEMSE Dean List Recognition 2026**.
 * June 2026: **The 3rd Price** in Four Minute Thesis (4MT) Competition held on IEEE ICC 2026.
-* Nov. 2024: **Top 10** nominated contributions to the IEEE Future Networks Initiative’ award on Non-Terrestrial Networks for 6G competition (NTNYS’24)
-* Nov. 2024: **Best Poster Award** in 6G Summit Abu Dhabi 2024
+* Nov. 2024: **Top 10** nominated contributions to the IEEE Future Networks Initiative’ award on Non-Terrestrial Networks for 6G competition (NTNYS’24).
+* Nov. 2024: **Best Poster Award** in 6G Summit Abu Dhabi 2024.
 
 
 
