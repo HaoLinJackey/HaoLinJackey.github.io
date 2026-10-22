@@ -28,6 +28,7 @@ Skills
 Academic Service
 ======
 * **Journal Reviewer**: IEEE TWC, IEEE TCOM, IEEE TCCN, IEEE TAES, IEEE TNSM, IEEE WCL, IEEE CL, IEEE WCM, IEEE IoTM.
+* **Website and Social Media Manager** of Communication Theory Lab, KAUST
 
 Experience
 ======
